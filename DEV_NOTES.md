@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Documented config options
 - Checked for memory leaks in long-running path
+
+## 2026-04-29
+- Resolved TODO items from previous session
+- Tested build on clean environment
